@@ -1,0 +1,30 @@
+C:\Users\arnab.bhadury01\Downloads\Carrier\Carrier\Carrier\Carrier.Services\bin\Release\net6.0\Carrier.Services.deps.json
+C:\Users\arnab.bhadury01\Downloads\Carrier\Carrier\Carrier\Carrier.Services\bin\Release\net6.0\Carrier.Services.dll
+C:\Users\arnab.bhadury01\Downloads\Carrier\Carrier\Carrier\Carrier.Services\bin\Release\net6.0\Carrier.Services.pdb
+C:\Users\arnab.bhadury01\Downloads\Carrier\Carrier\Carrier\Carrier.Services\bin\Release\net6.0\Carrier.DataAccessLayer.dll
+C:\Users\arnab.bhadury01\Downloads\Carrier\Carrier\Carrier\Carrier.Services\bin\Release\net6.0\Carrier.DataAccessLayer.pdb
+C:\Users\arnab.bhadury01\Downloads\Carrier\Carrier\Carrier\Carrier.Services\obj\Release\net6.0\Carrier.Services.csproj.AssemblyReference.cache
+C:\Users\arnab.bhadury01\Downloads\Carrier\Carrier\Carrier\Carrier.Services\obj\Release\net6.0\Carrier.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnab.bhadury01\Downloads\Carrier\Carrier\Carrier\Carrier.Services\obj\Release\net6.0\Carrier.Services.AssemblyInfoInputs.cache
+C:\Users\arnab.bhadury01\Downloads\Carrier\Carrier\Carrier\Carrier.Services\obj\Release\net6.0\Carrier.Services.AssemblyInfo.cs
+C:\Users\arnab.bhadury01\Downloads\Carrier\Carrier\Carrier\Carrier.Services\obj\Release\net6.0\Carrier.Services.csproj.CoreCompileInputs.cache
+C:\Users\arnab.bhadury01\Downloads\Carrier\Carrier\Carrier\Carrier.Services\obj\Release\net6.0\Carrier.Services.csproj.CopyComplete
+C:\Users\arnab.bhadury01\Downloads\Carrier\Carrier\Carrier\Carrier.Services\obj\Release\net6.0\Carrier.Services.dll
+C:\Users\arnab.bhadury01\Downloads\Carrier\Carrier\Carrier\Carrier.Services\obj\Release\net6.0\refint\Carrier.Services.dll
+C:\Users\arnab.bhadury01\Downloads\Carrier\Carrier\Carrier\Carrier.Services\obj\Release\net6.0\Carrier.Services.pdb
+C:\Users\arnab.bhadury01\Downloads\Carrier\Carrier\Carrier\Carrier.Services\obj\Release\net6.0\ref\Carrier.Services.dll
+D:\Dip\AMS Pricing Calculator\Carrier\Carrier\Carrier\Carrier.Services\bin\Release\net6.0\Carrier.Services.deps.json
+D:\Dip\AMS Pricing Calculator\Carrier\Carrier\Carrier\Carrier.Services\bin\Release\net6.0\Carrier.Services.dll
+D:\Dip\AMS Pricing Calculator\Carrier\Carrier\Carrier\Carrier.Services\bin\Release\net6.0\Carrier.Services.pdb
+D:\Dip\AMS Pricing Calculator\Carrier\Carrier\Carrier\Carrier.Services\bin\Release\net6.0\Carrier.DataAccessLayer.dll
+D:\Dip\AMS Pricing Calculator\Carrier\Carrier\Carrier\Carrier.Services\bin\Release\net6.0\Carrier.DataAccessLayer.pdb
+D:\Dip\AMS Pricing Calculator\Carrier\Carrier\Carrier\Carrier.Services\obj\Release\net6.0\Carrier.Services.csproj.AssemblyReference.cache
+D:\Dip\AMS Pricing Calculator\Carrier\Carrier\Carrier\Carrier.Services\obj\Release\net6.0\Carrier.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dip\AMS Pricing Calculator\Carrier\Carrier\Carrier\Carrier.Services\obj\Release\net6.0\Carrier.Services.AssemblyInfoInputs.cache
+D:\Dip\AMS Pricing Calculator\Carrier\Carrier\Carrier\Carrier.Services\obj\Release\net6.0\Carrier.Services.AssemblyInfo.cs
+D:\Dip\AMS Pricing Calculator\Carrier\Carrier\Carrier\Carrier.Services\obj\Release\net6.0\Carrier.Services.csproj.CoreCompileInputs.cache
+D:\Dip\AMS Pricing Calculator\Carrier\Carrier\Carrier\Carrier.Services\obj\Release\net6.0\Carrier..7736C900.Up2Date
+D:\Dip\AMS Pricing Calculator\Carrier\Carrier\Carrier\Carrier.Services\obj\Release\net6.0\Carrier.Services.dll
+D:\Dip\AMS Pricing Calculator\Carrier\Carrier\Carrier\Carrier.Services\obj\Release\net6.0\refint\Carrier.Services.dll
+D:\Dip\AMS Pricing Calculator\Carrier\Carrier\Carrier\Carrier.Services\obj\Release\net6.0\Carrier.Services.pdb
+D:\Dip\AMS Pricing Calculator\Carrier\Carrier\Carrier\Carrier.Services\obj\Release\net6.0\ref\Carrier.Services.dll
